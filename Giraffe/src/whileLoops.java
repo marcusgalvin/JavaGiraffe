@@ -5,12 +5,12 @@ public class whileLoops {
 		//indexing variable (counter)
 		int i = 1;
 		
-		while(i <= 10)
+		do
 		{
 			System.out.println(i);
 //			i = i + 1;
 			i++;
-		}
+		} while(i <= 10);
 		
 		
 		
