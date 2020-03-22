@@ -13,7 +13,7 @@ public class App {
 		
 		String q2 = "What color are bananas?\n"
 				+ "(a)red/green\n(b)Yellow\n(c)Blue\n";
-		
+		//init array
 		Question [] questions = {
 				new Question(q1, "a"),
 				new Question(q2, "b")
