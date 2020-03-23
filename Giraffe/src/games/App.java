@@ -24,6 +24,7 @@ public class App {
 	}
 		public static void takeTest(Question [] questions)
 		{
+			//take user input
 			Scanner keyboardInput = new Scanner(System.in);
 			
 			int score = 0;
