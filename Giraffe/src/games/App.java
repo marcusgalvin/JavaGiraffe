@@ -7,7 +7,7 @@ public class App {
 	public static void main(String[] args)
 	{
 	
-		//ask questions
+		//ask questions for game
 		String q1 = "What color are apples?\n"
 				+ "(a)red/green\n(b)Orange\n(c)Purple\n";
 		
