@@ -8,7 +8,7 @@ public class App {
 	{
 	
 		//ask questions for game
-		//String question
+		//String question start
 		String q1 = "What color are apples?\n"
 				+ "(a)red/green\n(b)Orange\n(c)Purple\n";
 		
